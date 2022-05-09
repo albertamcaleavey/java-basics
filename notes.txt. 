@@ -1,0 +1,30 @@
+Main 
+- every Java program should have at least one class that contains a main method (class called main)
+- whenever you run a Java program, the main method/function gets called
+- main methods exist in a class
+
+Class 
+- a container for related functions, a blueprint for creating objects
+- use PascalNamingConvenction = every word is uppercase
+
+Methods
+- use camelNamingConvention
+
+Access Modifier
+- classees and methods should have an access modifier
+- a keyword that determines if other methods and classes in the program can access them (ex: public)
+
+
+BASIC FORMAT OF A JAVA CLASS:
+
+// create a class by giving it an access modifier, then use the "class" keyword, followed by a descriptive name 
+public class Main {
+  // main method
+  public void main() {
+
+  }
+}
+
+
+
+
